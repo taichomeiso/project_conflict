@@ -3,3 +3,6 @@ import "@hotwired/turbo-rails"
 import "controllers"
 import "reverse_colors"
 import "memory_square"
+motomitsu
+hara-kojiro
+ // "test_tanaka_keita"
