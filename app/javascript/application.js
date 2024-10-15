@@ -3,3 +3,4 @@ import "@hotwired/turbo-rails"
 import "controllers"
 import "reverse_colors"
 import "memory_square"
+たいち
